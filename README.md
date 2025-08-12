@@ -1,6 +1,6 @@
 # 【UE5 C++】地图实现 玩家图标 可缩放 可拖拽
 
-![动画](https://github.com/user-attachments/assets/7d148aa2-4e9b-46cd-82f7-364d5c239a58)
+![动画](map.gif)
 
 ## 项目简介
 
