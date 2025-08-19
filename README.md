@@ -4,7 +4,7 @@
 
 ## 项目简介
 
-本仓库对应B站视频[【UE5 C++】地图实现 玩家图标 可缩放 可拖拽](https://www.bilibili.com/video/BV1CpgHzVEju/?spm_id_from=333.1387.homepage.video_card.click&vd_source=ab67845b846f1632f14b7e2c4a6c5935)的完整实现工程。旨在通过实际案例，帮助开发者掌握在UE5中使用C++实现地图系统的核心技术，包括玩家图标的显示、地图缩放及拖拽功能的开发，为游戏开发中的地图模块搭建提供清晰参考。
+本仓库旨在通过实际案例，帮助开发者掌握在UE5中使用C++实现地图系统的核心技术，包括玩家图标的显示、地图缩放及拖拽功能的开发，为游戏开发中的地图模块搭建提供清晰参考。
 
 ## 核心内容
 
@@ -49,13 +49,6 @@
 - 视频链接：[【UE5 C++】地图实现 玩家图标 可缩放 可拖拽](https://www.bilibili.com/video/BV1CpgHzVEju/?spm_id_from=333.1387.homepage.video_card.click&vd_source=ab67845b846f1632f14b7e2c4a6c5935)
 - 系列教程：查看作者其他UE5 C++教程（背包系统、网络同步、GAS系统等）
 - 参考项目：作者推荐的UE5相关学习项目（如Lyra、Action RPG等）
-
-## 作者信息
-
-前华为/百度程序员，专注分享UE5 C++游戏开发实战知识。
-
-- 更多工程与源码：[个人仓库](https://github.com/AstroWYH)
-- B站主页：[晚上做游戏](https://space.bilibili.com/89037636?spm_id_from=333.1007.0.0)
 
 ## 许可证
 
